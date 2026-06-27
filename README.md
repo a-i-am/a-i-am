@@ -35,7 +35,7 @@
 ### 👨‍💻 Projects & Repositories
 
 #### 📅 2026
-* **[프로젝트명](REPO_LINK)** 
+* **[Digiverse](REPO_LINK)** 
   * `Unity3D` `Firebase` | 모바일 보드게임 및 시뮬레이션 게임 (개발 중)
   * **주요 작업:** 게임 로직 설계, Firebase 연동 데이터 관리
 * **[GIS Library Test](REPO_LINK)** 
