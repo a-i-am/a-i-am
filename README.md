@@ -34,18 +34,37 @@
 
 ### 👨‍💻 Projects & Repositories
 
-| 연도 | 프로젝트 / 레포지토리 | 사용 기술 | 담당 핵심 작업 / 특징 |
-| :--- | :--- | :--- | :--- |
-| **2026** | 🎮 [모바일 보드게임 (제작 중)](REPO_LINK) | Unity3D, Firebase | 모바일 환경 최적화, 데이터베이스 연동 |
-| | 🗺️ [GIS 라이브러리 연동 테스트](REPO_LINK) | Unity3D | GIS 데이터 연동 및 테스트 |
-| | 📄 [Web to PDF 변환기](REPO_LINK) | Python | 웹 링크 PDF 변환 자동화 스크립트 |
-| **2025** | 🚽 [WHERE IS MY TOILLET?](REPO_LINK) | Unity2D | 플랫포머 게임, **Enemy AI 시스템** 구현 |
-| *(교육)* | ⚔️ [턴제 RPG 게임](REPO_LINK) | Unreal Engine | 턴제 전투 메커니즘 구현 |
-| | 🤖 [AI Pathfinding Test](REPO_LINK) | C++, C# | **A\* 알고리즘** 및 **행동트리(BT)** 구현 |
-| | 🐹 [Lemmings 클론 코딩](REPO_LINK) | Windows API, C++ | WinAPI 활용 그래픽 및 객체 제어 |
-| **2024** | 🏆 [컴투스 공모전 스토리텔링 게임](REPO_LINK) | Unity3D | **데이터 구조 설계**, UGUI 개발, 기획/아트 참여 |
-| | ⚔️ [2D 횡스크롤 액션 RPG](REPO_LINK) | Unity2D | 캐릭터 조작 및 전투 시스템 구현 |
-| | 🎫 [쿠폰 활용 캡스톤](REPO_LINK) | JS, PHP, API | 웹앱 프론트엔드 개발 및 API 연동 |
+#### 📅 2026
+* **[프로젝트명](REPO_LINK)** 
+  * `Unity3D` `Firebase` | 모바일 보드게임 및 시뮬레이션 게임 (개발 중)
+  * **주요 작업:** 게임 로직 설계, Firebase 연동 데이터 관리
+* **[GIS Library Test](REPO_LINK)** 
+  * `Unity3D` `C#` | GIS 라이브러리 연동 및 지형 데이터 시각화 테스트
+* **[Web to PDF Converter](REPO_LINK)** 
+  * `Python` | 웹 링크를 PDF 파일로 일괄 변환하는 자동화 도구
+
+#### 📅 2025 (인하대학교 미래인재개발원)
+* **[WHERE IS MY TOILLET?](REPO_LINK)** 
+  * `Unity2D` `C#` | 2D 플랫포머 액션 게임
+  * **주요 작업:** FSM 기반 Enemy AI 시스템 구현
+* **[Turn-Based RPG](REPO_LINK)** 
+  * `Unreal Engine` | 'U 33원정대' 스타일의 턴제 RPG 게임
+  * **주요 작업:** 턴제 전투 시스템 및 캐릭터 스킬 구조 설계
+* **[AI Pathfinding & BT Test](REPO_LINK)** 
+  * `C++ / C#` | A* 알고리즘 및 행동 트리(Behavior Tree) 기반 AI 구현 프로젝트
+* **[Lemmings Clone](REPO_LINK)** 
+  * `Windows API` `C++` | 고전 게임 '레밍즈' 클론 코딩
+
+#### 📅 2024
+* **[스토리텔링 게임 (컴투스 공모전 출품)](REPO_LINK)** 
+  * `Unity3D` `C#` | 공모전 출품작 (대사 및 텍스트 기반 시뮬레이션)
+  * **주요 작업:** 데이터 구조 설계, UGUI 시스템, 게임 환경 및 캐릭터 세팅, 밸런싱 기획
+* **[2D Side-Scrolling Action RPG](REPO_LINK)** 
+  * `Unity2D` `C#` | 2D 횡스크롤 액션 RPG 게임 제작
+* **[쿠폰/기프티콘 활용 캡스톤](REPO_LINK)** 
+  * `JavaScript` `PHP` `API` | 캡스톤 디자인 웹앱 프로젝트
+  * **주요 작업:** 프론트엔드 UI 개발 및 외부 API 연동
+
 
 
 ---
