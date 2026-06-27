@@ -32,4 +32,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-i-am&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
+### 👨‍💻 Projects & Repositories
+
+| 연도 | 프로젝트 / 레포지토리 | 사용 기술 | 담당 핵심 작업 / 특징 |
+| :--- | :--- | :--- | :--- |
+| **2026** | 🎮 [모바일 보드게임 (제작 중)](REPO_LINK) | Unity3D, Firebase | 모바일 환경 최적화, 데이터베이스 연동 |
+| | 🗺️ [GIS 라이브러리 연동 테스트](REPO_LINK) | Unity3D | GIS 데이터 연동 및 테스트 |
+| | 📄 [Web to PDF 변환기](REPO_LINK) | Python | 웹 링크 PDF 변환 자동화 스크립트 |
+| **2025** | 🚽 [WHERE IS MY TOILLET?](REPO_LINK) | Unity2D | 플랫포머 게임, **Enemy AI 시스템** 구현 |
+| *(교육)* | ⚔️ [턴제 RPG 게임](REPO_LINK) | Unreal Engine | 턴제 전투 메커니즘 구현 |
+| | 🤖 [AI Pathfinding Test](REPO_LINK) | C++, C# | **A\* 알고리즘** 및 **행동트리(BT)** 구현 |
+| | 🐹 [Lemmings 클론 코딩](REPO_LINK) | Windows API, C++ | WinAPI 활용 그래픽 및 객체 제어 |
+| **2024** | 🏆 [컴투스 공모전 스토리텔링 게임](REPO_LINK) | Unity3D | **데이터 구조 설계**, UGUI 개발, 기획/아트 참여 |
+| | ⚔️ [2D 횡스크롤 액션 RPG](REPO_LINK) | Unity2D | 캐릭터 조작 및 전투 시스템 구현 |
+| | 🎫 [쿠폰 활용 캡스톤](REPO_LINK) | JS, PHP, API | 웹앱 프론트엔드 개발 및 API 연동 |
+
+
 ---
