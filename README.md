@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm a-i-am 👋</h1>
+<h1 align="center">Hi there, I'm Sieun Park 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Unity+Developer;Game+Architecture+Enthusiast;Continuous+Learner" alt="Typing SVG" />
