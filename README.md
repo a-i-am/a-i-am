@@ -1,27 +1,67 @@
 <h1 align="center">Sieun Park | Game Client Developer</h1>
 
-게임과 인터랙티브 콘텐츠를 개발합니다.
+<p align="center">
+  게임 및 인터랙티브 콘텐츠 클라이언트 개발자 <b>박시은</b>입니다.
+</p>
 
-최종 업데이트: 2026-06-30
+<p align="center">
+  <img src="https://img.shields.io/badge/README%20Updated-2026--07--01-222222?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-## 포트폴리오 프로젝트
+---
 
-| 프로젝트 | 개발 기간 | 진행 구분 |
-| --- | --- | --- |
-| [Project LUP](https://github.com/a-i-am/projectlup-v2025-personal) | upstream 생성일 2025-11-01 | 팀 프로젝트 |
-| [Jellyfish Dancers](https://github.com/a-i-am/Jellyfish-Dancers-unity-vfx-media-art) | 2026-06-16 - 2026-06-30 | 개인 미디어아트 |
-| [Tell The Story](https://github.com/a-i-am/Unity3D-ActingGame-TellTheStory-) | 2024-12-14 - 2024-12-30 | 컴투스 COM:ON 2024 출품 |
-| [YOU](https://github.com/a-i-am/Unity2D-CasualAction-DemoProject-YOU-) | 2024-08 - 2024-10 | 개인 액션 데모 |
-| [Uni Birth](https://github.com/a-i-am/UE5-Turn-based-RPG-Uni-Birth) | 2025-10 - 2025-12 | 턴제 RPG 팀 프로젝트 |
-| [COUPONGO](https://github.com/a-i-am/COUPONGO) | 2026-06-30 - 진행 중 | 개인 개발 |
-| [WHERE IS MY TOILLET?](https://github.com/a-i-am/inha-platformer-gamejam) | 2025-06-28 - 2025-06-30 | 인하대 미래인재개발원 게임잼 팀 프로젝트 |
-| [Lemmings Win32 API](https://github.com/a-i-am/Lemmings_Win32API) | 2025-07-31 - 2025-08-29 | MIT 기반 학습 프로젝트 |
+## 💻 Tech Stack
 
-GISProject는 GitHub에 올리지 않은 로컬 전용 프로젝트입니다.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> |
+| **Game Engines** | <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/> |
+| **Web Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/> |
+| **Backend / DB** | <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| **Tools / Design** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white"/> |
 
-## 업데이트 노트
+---
 
-- 각 저장소 README에는 한국어와 영어 정보를 함께 적었습니다.
-- 개발 기간과 리팩터링 기간은 가능한 범위에서 분리했습니다.
-- WHERE IS MY TOILLET?는 원본 저장소를 건드리지 않은 포트폴리오 복사본입니다.
-- 공개 반영은 README 점검 이후 별도 단계로 진행합니다.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=a-i-am&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a-i-am&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📁 Portfolio Projects
+
+#### 📅 2026
+* **[COUPONGO](https://github.com/a-i-am/COUPONGO)** 
+  * `React` `Vite` `Zustand` `Framer Motion` | 경마 시스템과 마피아 게임의 추리 요소를 결합한 웹 보드게임입니다.
+  * **주요 작업:** 상태 머신 로직 설계, AI 기반 자동 레이스 및 투표 루프 연동
+* **[Jellyfish Dancers](https://github.com/a-i-am/Jellyfish-Dancers-unity-vfx-media-art)** 
+  * `Unity 6` `C#` `VFX Graph` `TCP/UDP` | 웹캠 및 센서 네트워크 기반 실시간 반응형 미디어 아트 프로젝트입니다.
+  * **주요 작업:** 세그멘테이션 데이터 셰이더 연동, 다중 센서 입력 파이프라인 구성, 멀티 디스플레이 대응
+* **[url2pdf](https://github.com/a-i-am/url2pdf)** 
+  * `Python` | 웹 페이지를 PDF 파일로 일괄 변환하는 자동화 도구입니다.
+  * **주요 작업:** 웹 페이지 URL 추출, PDF 변환 파이프라인 스크립트 작성
+
+#### 📅 2025 (인하대학교 미래인재개발원)
+* **[WHERE IS MY TOILET?](https://github.com/a-i-am/inha-platformer-gamejam)** 
+  * `Unity 2D` `C#` | 게임잼 출품 2D 플랫포머 액션 게임입니다.
+  * **주요 작업:** FSM 기반 Enemy AI 시스템 구현
+* **[Uni Birth / Turn-Based RPG](https://github.com/a-i-am/UE5-Turn-based-RPG-Uni-Birth)** 
+  * `Unreal Engine 5` `C++` | '33원정대' 스타일의 실시간 반응형 턴제 RPG 팀 프로젝트입니다.
+  * **주요 작업:** 턴제 전투 시스템 설계, 실시간 회피 / 패링 QTE 구현, 버프 시스템 구축
+* **[Project LUP / AI Pathfinding & BT Test](https://github.com/a-i-am/projectlup-v2025-personal)** 
+  * `C++` `C#` | A* 알고리즘 및 행동 트리 기반 AI 구현 프로젝트입니다.
+  * **주요 작업:** 그리드 기반 A* 경로 탐색 알고리즘 구현, 상태별 행동 트리 구성
+* **[Lemmings Win32 API](https://github.com/a-i-am/Lemmings_Win32API)** 
+  * `Windows API` `C++` | 고전 게임 '레밍즈' 모작 프로젝트입니다.
+  * **주요 작업:** WinAPI 환경 그래픽 렌더링, 객체 제어 시스템 구현
+
+#### 📅 2024
+* **[Tell The Story](https://github.com/a-i-am/Unity3D-ActingGame-TellTheStory-)** 
+  * `Unity 3D` `C#` | 컴투스 공모전 '컴:온 2024' 출품작입니다. 대사 및 텍스트 기반 시뮬레이션 게임입니다.
+  * **주요 작업:** 데이터 구조 설계, UGUI 시스템 개발, 3D 로비 내 캐릭터 연출, 밸런싱 기획
+* **[YOU / 2D Casual Action Demo](https://github.com/a-i-am/Unity2D-CasualAction-DemoProject-YOU-)** 
+  * `Unity 2D` `C#` | 적을 수집해 아군으로 소환하는 2D 횡스크롤 액션 RPG 데모 프로젝트입니다.
+  * **주요 작업:** 캐릭터 조작 및 전투 시스템 구현, 팔로워 포메이션 구현, 거리 기반 타겟팅 구현
