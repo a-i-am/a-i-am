@@ -6,7 +6,7 @@ README 업데이트: 2026-07-01
 
 ### 기술 스택 요약
 - **주력 기술:** C++, C#, Unity, Unreal Engine
-- **Secondary:** 
+- **기타 활용 기술:** 
   - **Web Frontend:** HTML5, CSS, JS
   - **Backend & DB:** Java, Node.js, Python, MySQL
   - **Version Control:** Git, GitHub
@@ -23,9 +23,10 @@ README 업데이트: 2026-07-01
   * **주요 작업:** 세그멘테이션 데이터 셰이더 연동, 다중 센서 입력 파이프라인 구성 및 멀티 디스플레이 대응
 * **[url2pdf](https://github.com/a-i-am/url2pdf)** 
   * `Python` | 웹 페이지를 PDF 파일로 일괄 변환하는 자동화 도구
+  * **주요 작업:** 웹 페이지 URL 추출 및 PDF 변환 파이프라인 스크립트 작성
 
 #### 📅 2025 (인하대학교 미래인재개발원)
-* **[WHERE IS MY TOILLET?](https://github.com/a-i-am/inha-platformer-gamejam)** 
+* **[WHERE IS MY TOILET?](https://github.com/a-i-am/inha-platformer-gamejam)** 
   * `Unity 2D` `C#` | 게임잼 출품 2D 플랫포머 액션 게임
   * **주요 작업:** FSM 기반 Enemy AI 시스템 구현
 * **[Uni Birth (Turn-Based RPG)](https://github.com/a-i-am/UE5-Turn-based-RPG-Uni-Birth)** 
@@ -33,6 +34,7 @@ README 업데이트: 2026-07-01
   * **주요 작업:** 턴제 전투 시스템 설계, 실시간 회피/패링 QTE 구현 및 버프 시스템 구축
 * **[Project LUP (AI Pathfinding & BT Test)](https://github.com/a-i-am/projectlup-v2025-personal)** 
   * `C++` `C#` | A* 알고리즘 및 행동 트리(Behavior Tree) 기반 AI 구현 프로젝트
+  * **주요 작업:** 그리드 기반 A* 경로 탐색 알고리즘 및 상태별 행동 트리 구성
 * **[Lemmings Win32 API](https://github.com/a-i-am/Lemmings_Win32API)** 
   * `Windows API` `C++` | 고전 게임 '레밍즈' 모작 프로젝트
   * **주요 작업:** WinAPI 환경 그래픽 렌더링 및 객체 제어
