@@ -4,13 +4,30 @@
 
 README 업데이트: 2026-07-01
 
-### 기술 스택 요약
-- **주력 기술:** C++, C#, Unity, Unreal Engine
-- **기타 활용 기술:** 
-  - **Web Frontend:** HTML5, CSS, JS
-  - **Backend & DB:** Java, Node.js, Python, MySQL
-  - **Version Control:** Git, GitHub
-  - **Design & 3D:** Photoshop, Illustrator, Cinema 4D
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cinema_4D-000000?style=flat-square&logo=cinema4d&logoColor=white"/>
+</p>
 
 ### 포트폴리오 프로젝트
 
